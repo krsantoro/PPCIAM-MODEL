@@ -12,4 +12,4 @@ O roteiro basicamente se divide em:
 5. Apresentação do software Gephi
 6. Uma análise simples utilizando dados conhecidos
 
-O softwware Gephi pode ser obtido em [http://](https://gephi.org/)https://gephi.org/ .
+O softwware Gephi pode ser obtido em (https://gephi.org/)https://gephi.org/ .
